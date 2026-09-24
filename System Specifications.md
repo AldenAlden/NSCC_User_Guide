@@ -1,6 +1,6 @@
-#System Specifications
+# System Specifications
 
-##Compute Nodes
+## Compute Nodes
 | Type | # Nodes | Per Node<br><br>CPU | <br><br>GPU | <br><br>RAM | <br><br>Storage | PBS Queue
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Cray EX CPU Nodes | 768 | 2 x [AMD EPYC™ 9655](https://www.amd.com/en/products/processors/server/epyc/9005-series/amd-epyc-9655.html)<br>96 cores per CPU<br>192 cores in total | - | 770GB DDR5 ECC | - | normal |
