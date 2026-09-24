@@ -14,4 +14,4 @@ Access to ASPIRE 2B is via an SSH (Secure Shell) client to login nodes.
   ```
   ssh <userid>@aspire2b.nscc.sg
   ```
-Refer to section 5 of [this guide](https://help.nscc.sg/aspire2B/user-guide/) for detailed user on-boarding instructions
+<sub>Please refer to section 5 of [this guide](https://help.nscc.sg/aspire2B/user-guide/) for detailed user on-boarding instructions</sub>
