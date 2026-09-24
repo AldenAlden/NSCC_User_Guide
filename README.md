@@ -1,1 +1,0 @@
-# NSCC_User_Guide
