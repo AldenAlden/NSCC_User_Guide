@@ -2,8 +2,8 @@
 
 | System | Support Channel | Usage |
 |---|---|---|
-| **ASPIRE 2A / ASPIRE 2A+** | **ASPIRE 2A Service Desk:**<br><br>Web: [https://keris.service-now.com/fapl_csm](https://keris.service-now.com/fapl_csm)<br><br>Email: [help@nscc.sg](mailto:help@nscc.sg) | Support for ASPIRE 2A and ASPIRE 2A+ services |
 | **ASPIRE 2B** | **ASPIRE 2B Service Desk:**<br><br>Web: [https://servicedesk.nscc.sg](https://servicedesk.nscc.sg)<br><br>Email: [servicedesk@nscc.sg](mailto:servicedesk@nscc.sg) | Support for ASPIRE 2B incidents, access issues and service requests |
+| **ASPIRE 2A / ASPIRE 2A+** | **ASPIRE 2A Service Desk:**<br><br>Web: [https://keris.service-now.com/fapl_csm](https://keris.service-now.com/fapl_csm)<br><br>Email: [help@nscc.sg](mailto:help@nscc.sg) | Support for ASPIRE 2A and ASPIRE 2A+ services |
 
 ### ASPIRE 2B Support
 
