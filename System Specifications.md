@@ -18,9 +18,9 @@
 
 | Directory | Filesystem | Capacity | Mount Point | Quota | Use Case |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Home | LFS | 2.3PB | /home/users/<org>/<institution>/<username>/ | 50GB | Long term storage of user data |
-| Project | LFS | 35PB | /project/<project-id>/ | Project allocation | Long term storage of project data shared among members |
-| Scratch | LFS | 23PB | /scratch/users/<org>/<institution>/<username> | 100TB | Temporary storage of user data for better I/O performance(subject to purge) |
+| Home | LFS | 2.3PB | ```/home/users/<org>/<institution>/<username>/``` | 50GB | Long term storage of user data |
+| Project | LFS | 35PB | ```/project/<project-id>/``` | Project specific | Long term storage of project data shared among members |
+| Scratch | LFS | 23PB | ```/scratch/users/<org>/<institution>/<username>/``` | 100TB | Temporary storage of user data for better I/O performance(subject to purge) |
 
 ## Data Management Framework
 ASPIRE 2B uses multiple storage tiers to balance performance and capacity. Active ("hot") data in Home and Project directories resides on fast NVMe flash and HDD within the GPFS filesystem, while less frequently accessed ("cold") data is migrated to slower, higher-capacity tiers such as tape storage. The HPE Data Management Framework (DMF) automatically manages these migrations to optimize storage usage and system performance.
